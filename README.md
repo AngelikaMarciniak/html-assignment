@@ -1,2 +1,2 @@
 # html assignment
-My basic webside: https://angelikamarciniak.github.io/html-assignment/
+Link to my assignment: https://angelikamarciniak.github.io/html-assignment/
